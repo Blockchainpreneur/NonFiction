@@ -1,0 +1,7 @@
+{
+  "name": "Nonfiction",
+  "description": "Knowledge playlists from exact non-fiction book fragments. Listen to topics, not books.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
